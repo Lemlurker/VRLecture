@@ -1,0 +1,47 @@
+newmtl LightGrey
+Kd 0.7169812 0.7169812 0.7169812
+d 1
+
+newmtl Walls
+Kd 1 1 1
+d 1
+
+newmtl Light
+Kd 1 1 1
+d 1
+
+newmtl Slide
+map_Kd slide1-n.jpg
+map_Ke slide1-n.jpg
+Kd 1 1 1
+d 1
+
+newmtl Bang
+Kd 0.5283019 0.3181245 0.02741189
+d 1
+
+newmtl Squeeze
+Kd 0.5 0.04009435 0.04009435
+d 1
+
+newmtl Suck
+Kd 0.03671592 0.3773585 0
+d 1
+
+newmtl Blow
+Kd 0 0.1871994 0.4150943
+d 1
+
+newmtl Carpet
+map_Kd 7ddecd107a44bd6fc63a82a726c09c51.jpg
+Kd 1 1 1
+d 1
+
+newmtl No_Name
+Kd 1 1 1
+d 1
+
+newmtl Shell
+Kd 0.1886792 0.1886792 0.1886792
+d 1
+
