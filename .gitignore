@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs
+/Temp
+/Library
+/Assets/TextMesh Pro
+/Assets/XR
