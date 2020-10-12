@@ -12,7 +12,7 @@ two projector slides used to show the legacy content to enable the transition to
 smoother as there will be no necessity for a total rewrite of the content, instead the current 
 content can be augmented with newer virtual content. 
 
-<<How too Install>>
+How too Install
   download the Build.zip from the repository, unzip into a location of your choosing, 
   open the folder and double click LectureRoom.exe. the program will run and hook into either oculus or
   steam SDK automatically.
