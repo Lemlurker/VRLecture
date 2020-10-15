@@ -1,3 +1,7 @@
+![Image 1](https://github.com/Lemlurker/VRLecture/blob/Alpha/Assets/Picture1.jpg)
+![Image 2](https://github.com/Lemlurker/VRLecture/blob/Alpha/Assets/Picture2.jpg)
+![Image 3](https://github.com/Lemlurker/VRLecture/blob/Alpha/Assets/Picture3.jpg)
+![Image 4](https://github.com/Lemlurker/VRLecture/blob/Alpha/Assets/Picture4.jpg)
 # VRLecture Theatre
 The world is primarily for the purpose of replacing the current dated lecture room format. 
 At least initially a more classical approach would be utilised to make the transition to 
@@ -16,11 +20,6 @@ How too Install
   download the Build.zip from the repository, unzip into a location of your choosing, 
   open the folder and double click LectureRoom.exe. the program will run and hook into either oculus or
   steam SDK automatically.
- 
-
-Link to Photos of build: 
-https://imgur.com/a/umvdYnW?third_party=1#_=_
-
 
 Link to assets used: 
 Jet model - Thingiverse.com. 2020. 3D Printable Jet Engine By CATIAV5FTW. [online] Available at: <https://www.thingiverse.com/thing:1327093> [Accessed 3 October 2020].
